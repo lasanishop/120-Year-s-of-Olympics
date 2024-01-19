@@ -24,7 +24,7 @@ Gender Distribution: Comparative visuals showcasing the distribution of medals a
 ### 5. Interactive Dashboard Creation:
 Designed an interactive and user-friendly dashboard in Power BI, allowing stakeholders to explore data dynamically. Implemented slicers, filters, and drill-down functionalities for deeper analysis of specific metrics and time frames.
 
-6. Insights and Outcomes:
+### 6. Insights and Outcomes:
 Identified dominant countries in Olympic history based on medal counts across different games and sports. Showcased the evolution of top-performing athletes and trends in gender distribution over 120 years of Olympic history. Enabled stakeholders to gain insights into the patterns and changes in Olympic events across seasons and geographical regions.
 
 ## Conclusion:
